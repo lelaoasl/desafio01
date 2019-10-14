@@ -1,6 +1,6 @@
 # desafio01
 
-Projeto de criação de funcionalidades back end utilizando Node.js
+Project to create back end functionalities using node.js(API REST)
 
-//criação de rotas GET/POST/PUT/DELETE
-//criação de middlewares
+//route creations GET/POST/PUT/DELETE
+//middleware creations
